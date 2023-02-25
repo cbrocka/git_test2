@@ -1,0 +1,2 @@
+Adding some text, hello world!
+Line number two with additional text
